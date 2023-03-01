@@ -1,0 +1,39 @@
+{
+    "loginTitle": "Vertical Flight School",
+    "startTitle": "Vertical Flight School",
+    "cardPackTitle": "Course Packs",
+    "swipingCardTitle": "Starter Quiz",
+
+    "login": {
+        "loginTitle": "Login to your account",
+        "registerTitle": "Create new account",
+        "username": "Username",
+        "password": "Password",
+        "loginButton": "Login",
+        "registerButton": "Register",
+        "error": "Wrong password/Username",
+        "accountQuestion": "Not have an account?",
+        "backToLoginButton": "Back to login",
+        "createAccount": "Create one!",
+        "orLoginWith": "Or login with",
+        "facebook": "Facebook",
+        "google": "Google"
+    },
+
+    "startScreen": "Course Packs",
+
+    "cardPacksScreen": {
+        "basic":  "Basic Pack",
+        "basic2": "Pack 2",
+        "basic3": "Pack 3",
+        "packAvailable": "This pack is available",
+        "packNotAvailable": "This pack is not available",
+        "modalInfo": "Pack info",
+        "modalButtonFull": "Complete Course",
+        "modalButtonRandom": "Random Quiz",
+        "buyPackButton": "Buy"
+    },
+
+    "options": "Options",
+    "logout": "Logout"
+}

@@ -1,0 +1,38 @@
+{
+    "loginTitle": "Vertical Flight School",
+    "startTitle": "Vertical Flight School",
+    "cardPackTitle": "Tanfolyam csomagok",
+    "swipingCardTitle": "Kezdő kvíz",
+
+    "login": {
+        "loginTitle": "Bejelentkezés",
+        "registerTitle": "Új fiók létrehozása   ",
+        "username": "Felhassználónév",
+        "password": "Jelszó",
+        "loginButton": "Bejelentkezés",
+        "error": "Hibás jelszó vagy felhasználónév",
+        "accountQuestion": "Nincs még fiókod?",
+        "createAccount": "Hozz létre egyet!",
+        "backToLoginButton": "Vissza a bejelentkezéshez",
+        "orLoginWith": "Vagy jelentkezz be",
+        "facebook": "Facebook-kal",
+        "google": "Google fiókkal"
+    },
+
+    "startScreen": "Kurzus csomagok",
+
+    "cardPacksScreen": {
+        "basic":  "Alap csomag",
+        "basic2": "Csomag 2",
+        "basic3": "Csomag 3",
+        "packAvailable": "Ez a csomag elérhető",
+        "packNotAvailable": "Ez a csomag még nem elérhető",
+        "modalInfo": "Csomag infók",
+        "modalButtonFull": "Teljes tanfolyam",
+        "modalButtonRandom": "Random kvíz",
+        "buyPackButton": "Csomag megvásárlása"
+    },
+
+    "options": "Beállítások",
+    "logout": "Kijelentkezés"
+}
